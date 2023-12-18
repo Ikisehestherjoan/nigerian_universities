@@ -1,7 +1,7 @@
 
 ---
 
-# Nigeria Web Scraping and Data Transformation Project
+# Nigeria Universities Web Scraping and Data Transformation Project
 
 ## Overview
 
